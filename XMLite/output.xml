@@ -1,0 +1,2278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file for="prova2.xml">
+<nofelements>568</nofelements>
+<elements>
+	<element id="0">
+		<item>AOSS 475</item>
+		<value>true</value>
+	</element>
+	<element id="1">
+		<item>SPANISH 232</item>
+		<value>true</value>
+	</element>
+	<element id="2">
+		<item>COMPLIT 495</item>
+		<value>true</value>
+	</element>
+	<element id="3">
+		<item>In 689</item>
+		<value>true</value>
+	</element>
+	<element id="4">
+		<item>AnswerLine 800</item>
+		<value>false</value>
+	</element>
+	<element id="5">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="6">
+		<item>Rackham 575</item>
+		<value>true</value>
+	</element>
+	<element id="7">
+		<item>Rackham 575</item>
+		<value>true</value>
+	</element>
+	<element id="8">
+		<item>VS 512</item>
+		<value>false</value>
+	</element>
+	<element id="9">
+		<item>Telephone 734</item>
+		<value>false</value>
+	</element>
+	<element id="10">
+		<item>Rule 103</item>
+		<value>false</value>
+	</element>
+	<element id="11">
+		<item>AutoGen 740</item>
+		<value>false</value>
+	</element>
+	<element id="12">
+		<item>COMPLIT 495</item>
+		<value>true</value>
+	</element>
+	<element id="13">
+		<item>SP 232</item>
+		<value>false</value>
+	</element>
+	<element id="14">
+		<item>CompCourse 006</item>
+		<value>true</value>
+	</element>
+	<element id="15">
+		<item>Suite 202</item>
+		<value>false</value>
+	</element>
+	<element id="16">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="17">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="18">
+		<item>Suite 400</item>
+		<value>false</value>
+	</element>
+	<element id="19">
+		<item>Suite 700</item>
+		<value>false</value>
+	</element>
+	<element id="20">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="21">
+		<item>SP 232</item>
+		<value>false</value>
+	</element>
+	<element id="22">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="23">
+		<item>APX 862</item>
+		<value>false</value>
+	</element>
+	<element id="24">
+		<item>CFR 745</item>
+		<value>false</value>
+	</element>
+	<element id="25">
+		<item>Fax 734</item>
+		<value>false</value>
+	</element>
+	<element id="26">
+		<item>MATH 115</item>
+		<value>true</value>
+	</element>
+	<element id="27">
+		<item>Swiss 721</item>
+		<value>false</value>
+	</element>
+	<element id="28">
+		<item>Swiss 721</item>
+		<value>false</value>
+	</element>
+	<element id="29">
+		<item>SP 232</item>
+		<value>false</value>
+	</element>
+	<element id="30">
+		<item>AMCULT 103</item>
+		<value>true</value>
+	</element>
+	<element id="31">
+		<item>AMCULT 102</item>
+		<value>true</value>
+	</element>
+	<element id="32">
+		<item>CLCIV 101</item>
+		<value>true</value>
+	</element>
+	<element id="33">
+		<item>COMPLIT 122</item>
+		<value>true</value>
+	</element>
+	<element id="34">
+		<item>Pathol 134</item>
+		<value>true</value>
+	</element>
+	<element id="35">
+		<item>Room 104</item>
+		<value>false</value>
+	</element>
+	<element id="36">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="37">
+		<item>SP 232</item>
+		<value>false</value>
+	</element>
+	<element id="38">
+		<item>Linguistics 528</item>
+		<value>true</value>
+	</element>
+	<element id="39">
+		<item>Suite 110</item>
+		<value>false</value>
+	</element>
+	<element id="40">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="41">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="42">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="43">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="44">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="45">
+		<item>Astronomy 122</item>
+		<value>true</value>
+	</element>
+	<element id="46">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="47">
+		<item>About 200</item>
+		<value>false</value>
+	</element>
+	<element id="48">
+		<item>EEUU  734</item>
+		<value>false</value>
+	</element>
+	<element id="49">
+		<item>EA 101</item>
+		<value>false</value>
+	</element>
+	<element id="50">
+		<item>IOE 265</item>
+		<value>true</value>
+	</element>
+	<element id="51">
+		<item>Within 180</item>
+		<value>false</value>
+	</element>
+	<element id="52">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="53">
+		<item>Astronomy 122</item>
+		<value>true</value>
+	</element>
+	<element id="54">
+		<item>Genetics 101</item>
+		<value>true</value>
+	</element>
+	<element id="55">
+		<item>Nearly 150</item>
+		<value>false</value>
+	</element>
+	<element id="56">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="57">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="58">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="59">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="60">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="61">
+		<item>Soc 310</item>
+		<value>true</value>
+	</element>
+	<element id="62">
+		<item>Potvin                 764</item>
+		<value>false</value>
+	</element>
+	<element id="63">
+		<item>Room 240</item>
+		<value>false</value>
+	</element>
+	<element id="64">
+		<item>BIOLOGY 162</item>
+		<value>true</value>
+	</element>
+	<element id="65">
+		<item>CSCS 530</item>
+		<value>true</value>
+	</element>
+	<element id="66">
+		<item>English 239</item>
+		<value>true</value>
+	</element>
+	<element id="67">
+		<item>Surg          120</item>
+		<value>true</value>
+	</element>
+	<element id="68">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="69">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="70">
+		<item>Genetics 821</item>
+		<value>true</value>
+	</element>
+	<element id="71">
+		<item>MCDB 632</item>
+		<value>false</value>
+	</element>
+	<element id="72">
+		<item>Sci 830</item>
+		<value>true</value>
+	</element>
+	<element id="73">
+		<item>Nature 412</item>
+		<value>false</value>
+	</element>
+	<element id="74">
+		<item>GEOG 201</item>
+		<value>true</value>
+	</element>
+	<element id="75">
+		<item>GEOG 111</item>
+		<value>true</value>
+	</element>
+	<element id="76">
+		<item>Division 374</item>
+		<value>false</value>
+	</element>
+	<element id="77">
+		<item>At 910</item>
+		<value>false</value>
+	</element>
+	<element id="78">
+		<item>GEOSCI 100</item>
+		<value>true</value>
+	</element>
+	<element id="79">
+		<item>AOSS 410</item>
+		<value>true</value>
+	</element>
+	<element id="80">
+		<item>Room 913</item>
+		<value>false</value>
+	</element>
+	<element id="81">
+		<item>GERMAN 232</item>
+		<value>true</value>
+	</element>
+	<element id="82">
+		<item>Box 676</item>
+		<value>false</value>
+	</element>
+	<element id="83">
+		<item>Box 676</item>
+		<value>false</value>
+	</element>
+	<element id="84">
+		<item>Suite 250</item>
+		<value>false</value>
+	</element>
+	<element id="85">
+		<item>Suite 250</item>
+		<value>false</value>
+	</element>
+	<element id="86">
+		<item>Pharm 659</item>
+		<value>true</value>
+	</element>
+	<element id="87">
+		<item>RC 952</item>
+		<value>false</value>
+	</element>
+	<element id="88">
+		<item>EECS 280</item>
+		<value>true</value>
+	</element>
+	<element id="89">
+		<item>EECS 320</item>
+		<value>true</value>
+	</element>
+	<element id="90">
+		<item>EECS 483</item>
+		<value>true</value>
+	</element>
+	<element id="91">
+		<item>EECS 181</item>
+		<value>true</value>
+	</element>
+	<element id="92">
+		<item>EECS 501</item>
+		<value>true</value>
+	</element>
+	<element id="93">
+		<item>EECS 497</item>
+		<value>true</value>
+	</element>
+	<element id="94">
+		<item>Box 927</item>
+		<value>false</value>
+	</element>
+	<element id="95">
+		<item>Call 911</item>
+		<value>false</value>
+	</element>
+	<element id="96">
+		<item>Rule 702</item>
+		<value>false</value>
+	</element>
+	<element id="97">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="98">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="99">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="100">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="101">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="102">
+		<item>UP 507</item>
+		<value>true</value>
+	</element>
+	<element id="103">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="104">
+		<item>Suite 300</item>
+		<value>false</value>
+	</element>
+	<element id="105">
+		<item>Pol 432</item>
+		<value>true</value>
+	</element>
+	<element id="106">
+		<item>Development 131</item>
+		<value>false</value>
+	</element>
+	<element id="107">
+		<item>Some 130</item>
+		<value>false</value>
+	</element>
+	<element id="108">
+		<item>RCSSCI 311</item>
+		<value>true</value>
+	</element>
+	<element id="109">
+		<item>RA 407</item>
+		<value>false</value>
+	</element>
+	<element id="110">
+		<item>Box 253</item>
+		<value>false</value>
+	</element>
+	<element id="111">
+		<item>Box 253</item>
+		<value>false</value>
+	</element>
+	<element id="112">
+		<item>Series 820</item>
+		<value>false</value>
+	</element>
+	<element id="113">
+		<item>ChE 341</item>
+		<value>true</value>
+	</element>
+	<element id="114">
+		<item>Cell 111</item>
+		<value>false</value>
+	</element>
+	<element id="115">
+		<item>Cell          111</item>
+		<value>false</value>
+	</element>
+	<element id="116">
+		<item>Room 104</item>
+		<value>false</value>
+	</element>
+	<element id="117">
+		<item>Sabin 159</item>
+		<value>false</value>
+	</element>
+	<element id="118">
+		<item>Nature 414</item>
+		<value>false</value>
+	</element>
+	<element id="119">
+		<item>ME 467</item>
+		<value>true</value>
+	</element>
+	<element id="120">
+		<item>ECE          498</item>
+		<value>true</value>
+	</element>
+	<element id="121">
+		<item>ECE          498</item>
+		<value>true</value>
+	</element>
+	<element id="122">
+		<item>Currently 212</item>
+		<value>false</value>
+	</element>
+	<element id="123">
+		<item>Volume 290</item>
+		<value>false</value>
+	</element>
+	<element id="124">
+		<item>Tyrosine 813</item>
+		<value>false</value>
+	</element>
+	<element id="125">
+		<item>Dynamics 218</item>
+		<value>false</value>
+	</element>
+	<element id="126">
+		<item>Chem 273</item>
+		<value>true</value>
+	</element>
+	<element id="127">
+		<item>Room 240</item>
+		<value>false</value>
+	</element>
+	<element id="128">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="129">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="130">
+		<item>Page 405</item>
+		<value>false</value>
+	</element>
+	<element id="131">
+		<item>NRE 557</item>
+		<value>true</value>
+	</element>
+	<element id="132">
+		<item>Nursing 503</item>
+		<value>true</value>
+	</element>
+	<element id="133">
+		<item>Randall 288</item>
+		<value>false</value>
+	</element>
+	<element id="134">
+		<item>Office 734</item>
+		<value>false</value>
+	</element>
+	<element id="135">
+		<item>LACS 619</item>
+		<value>true</value>
+	</element>
+	<element id="136">
+		<item>REES 695</item>
+		<value>true</value>
+	</element>
+	<element id="137">
+		<item>Astronomy 500</item>
+		<value>true</value>
+	</element>
+	<element id="138">
+		<item>French 235</item>
+		<value>true</value>
+	</element>
+	<element id="139">
+		<item>MATH 115</item>
+		<value>true</value>
+	</element>
+	<element id="140">
+		<item>REES                 395</item>
+		<value>true</value>
+	</element>
+	<element id="141">
+		<item>Academic                       360</item>
+		<value>false</value>
+	</element>
+	<element id="142">
+		<item>ASIAN 492</item>
+		<value>true</value>
+	</element>
+	<element id="143">
+		<item>Phone 734</item>
+		<value>false</value>
+	</element>
+	<element id="144">
+		<item>CSCS 541</item>
+		<value>true</value>
+	</element>
+	<element id="145">
+		<item>CSCS 541</item>
+		<value>true</value>
+	</element>
+	<element id="146">
+		<item>NA 401</item>
+		<value>true</value>
+	</element>
+	<element id="147">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="148">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="149">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="150">
+		<item>PHS            416</item>
+		<value>true</value>
+	</element>
+	<element id="151">
+		<item>DesignJet 800</item>
+		<value>false</value>
+	</element>
+	<element id="152">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="153">
+		<item>Graveyards 101</item>
+		<value>false</value>
+	</element>
+	<element id="154">
+		<item>Science 280</item>
+		<value>true</value>
+	</element>
+	<element id="155">
+		<item>History 615</item>
+		<value>true</value>
+	</element>
+	<element id="156">
+		<item>GREEK 101</item>
+		<value>true</value>
+	</element>
+	<element id="157">
+		<item>German 232</item>
+		<value>true</value>
+	</element>
+	<element id="158">
+		<item>SPG 501</item>
+		<value>false</value>
+	</element>
+	<element id="159">
+		<item>Call 764</item>
+		<value>false</value>
+	</element>
+	<element id="160">
+		<item>Call 764</item>
+		<value>false</value>
+	</element>
+	<element id="161">
+		<item>Bocks 764</item>
+		<value>false</value>
+	</element>
+	<element id="162">
+		<item>Rule 206</item>
+		<value>false</value>
+	</element>
+	<element id="163">
+		<item>Rule 206</item>
+		<value>false</value>
+	</element>
+	<element id="164">
+		<item>GS 305</item>
+		<value>true</value>
+	</element>
+	<element id="165">
+		<item>Section 504</item>
+		<value>false</value>
+	</element>
+	<element id="166">
+		<item>Ste 350</item>
+		<value>false</value>
+	</element>
+	<element id="167">
+		<item>Linguistics 112</item>
+		<value>true</value>
+	</element>
+	<element id="168">
+		<item>Section 504</item>
+		<value>false</value>
+	</element>
+	<element id="169">
+		<item>PUBPOL 500</item>
+		<value>true</value>
+	</element>
+	<element id="170">
+		<item>GTBOOKS 191</item>
+		<value>true</value>
+	</element>
+	<element id="171">
+		<item>GTBOOKS 192</item>
+		<value>true</value>
+	</element>
+	<element id="172">
+		<item>Division 382</item>
+		<value>false</value>
+	</element>
+	<element id="173">
+		<item>Cell 115</item>
+		<value>false</value>
+	</element>
+	<element id="174">
+		<item>Cell 115</item>
+		<value>false</value>
+	</element>
+	<element id="175">
+		<item>Cell 115</item>
+		<value>false</value>
+	</element>
+	<element id="176">
+		<item>Sci 111</item>
+		<value>true</value>
+	</element>
+	<element id="177">
+		<item>Cesium 137</item>
+		<value>false</value>
+	</element>
+	<element id="178">
+		<item>BF 311</item>
+		<value>false</value>
+	</element>
+	<element id="179">
+		<item>Hours 734</item>
+		<value>false</value>
+	</element>
+	<element id="180">
+		<item>Hours 734</item>
+		<value>false</value>
+	</element>
+	<element id="181">
+		<item>Hours 734</item>
+		<value>false</value>
+	</element>
+	<element id="182">
+		<item>Over 500</item>
+		<value>false</value>
+	</element>
+	<element id="183">
+		<item>Approximately 400</item>
+		<value>false</value>
+	</element>
+	<element id="184">
+		<item>Hours 734</item>
+		<value>false</value>
+	</element>
+	<element id="185">
+		<item>BS 440</item>
+		<value>false</value>
+	</element>
+	<element id="186">
+		<item>Hours 734</item>
+		<value>false</value>
+	</element>
+	<element id="187">
+		<item>Indexes 380</item>
+		<value>false</value>
+	</element>
+	<element id="188">
+		<item>GN 281</item>
+		<value>false</value>
+	</element>
+	<element id="189">
+		<item>Hours 734</item>
+		<value>false</value>
+	</element>
+	<element id="190">
+		<item>Hours 734</item>
+		<value>false</value>
+	</element>
+	<element id="191">
+		<item>Hours 734</item>
+		<value>false</value>
+	</element>
+	<element id="192">
+		<item>Hours 734</item>
+		<value>false</value>
+	</element>
+	<element id="193">
+		<item>Over 500</item>
+		<value>false</value>
+	</element>
+	<element id="194">
+		<item>Indexes 380</item>
+		<value>false</value>
+	</element>
+	<element id="195">
+		<item>Indexes 380</item>
+		<value>false</value>
+	</element>
+	<element id="196">
+		<item>Hours 734</item>
+		<value>false</value>
+	</element>
+	<element id="197">
+		<item>Covers 120</item>
+		<value>false</value>
+	</element>
+	<element id="198">
+		<item>Hours 734</item>
+		<value>false</value>
+	</element>
+	<element id="199">
+		<item>Hours 734</item>
+		<value>false</value>
+	</element>
+	<element id="200">
+		<item>Hours 734</item>
+		<value>false</value>
+	</element>
+	<element id="201">
+		<item>Hours 734</item>
+		<value>false</value>
+	</element>
+	<element id="202">
+		<item>Covers 400</item>
+		<value>false</value>
+	</element>
+	<element id="203">
+		<item>RA 790</item>
+		<value>false</value>
+	</element>
+	<element id="204">
+		<item>Service 990</item>
+		<value>false</value>
+	</element>
+	<element id="205">
+		<item>GN 710</item>
+		<value>false</value>
+	</element>
+	<element id="206">
+		<item>Over 500</item>
+		<value>false</value>
+	</element>
+	<element id="207">
+		<item>Hours 734</item>
+		<value>false</value>
+	</element>
+	<element id="208">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="209">
+		<item>Call 313</item>
+		<value>false</value>
+	</element>
+	<element id="210">
+		<item>Catalysis 208</item>
+		<value>false</value>
+	</element>
+	<element id="211">
+		<item>ChE 460</item>
+		<value>true</value>
+	</element>
+	<element id="212">
+		<item>Studies 395</item>
+		<value>true</value>
+	</element>
+	<element id="213">
+		<item>Between                       500</item>
+		<value>false</value>
+	</element>
+	<element id="214">
+		<item>Immunology 165</item>
+		<value>true</value>
+	</element>
+	<element id="215">
+		<item>Studies 300</item>
+		<value>true</value>
+	</element>
+	<element id="216">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="217">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="218">
+		<item>Room 361</item>
+		<value>false</value>
+	</element>
+	<element id="219">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="220">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="221">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="222">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="223">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="224">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="225">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="226">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="227">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="228">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="229">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="230">
+		<item>Call 734</item>
+		<value>false</value>
+	</element>
+	<element id="231">
+		<item>Section 504</item>
+		<value>false</value>
+	</element>
+	<element id="232">
+		<item>Ste 203</item>
+		<value>false</value>
+	</element>
+	<element id="233">
+		<item>HA 112</item>
+		<value>false</value>
+	</element>
+	<element id="234">
+		<item>Swiss 721</item>
+		<value>false</value>
+	</element>
+	<element id="235">
+		<item>Chemistry 278</item>
+		<value>true</value>
+	</element>
+	<element id="236">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="237">
+		<item>Engin 100</item>
+		<value>true</value>
+	</element>
+	<element id="238">
+		<item>Engin 100</item>
+		<value>true</value>
+	</element>
+	<element id="239">
+		<item>Usually                                   400</item>
+		<value>false</value>
+	</element>
+	<element id="240">
+		<item>Honors 490</item>
+		<value>false</value>
+	</element>
+	<element id="241">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="242">
+		<item>Swiss 721</item>
+		<value>false</value>
+	</element>
+	<element id="243">
+		<item>Swiss 721</item>
+		<value>false</value>
+	</element>
+	<element id="244">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="245">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="246">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="247">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="248">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="249">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="250">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="251">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="252">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="253">
+		<item>Pathol 160</item>
+		<value>true</value>
+	</element>
+	<element id="254">
+		<item>Math 175</item>
+		<value>true</value>
+	</element>
+	<element id="255">
+		<item>Math 175</item>
+		<value>true</value>
+	</element>
+	<element id="256">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="257">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="258">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="259">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="260">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="261">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="262">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="263">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="264">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="265">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="266">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="267">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="268">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="269">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="270">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="271">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="272">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="273">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="274">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="275">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="276">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="277">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="278">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="279">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="280">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="281">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="282">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="283">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="284">
+		<item>BWV 904</item>
+		<value>false</value>
+	</element>
+	<element id="285">
+		<item>Division 468</item>
+		<value>false</value>
+	</element>
+	<element id="286">
+		<item>Division 468</item>
+		<value>false</value>
+	</element>
+	<element id="287">
+		<item>Telephone 734</item>
+		<value>true</value>
+	</element>
+	<element id="288">
+		<item>Box 231</item>
+		<value>false</value>
+	</element>
+	<element id="289">
+		<item>HE 600</item>
+		<value>true</value>
+	</element>
+	<element id="290">
+		<item>Room 532</item>
+		<value>false</value>
+	</element>
+	<element id="291">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="292">
+		<item>Suite 330</item>
+		<value>false</value>
+	</element>
+	<element id="293">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="294">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="295">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="296">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="297">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="298">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="299">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="300">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="301">
+		<item>Contact 734</item>
+		<value>false</value>
+	</element>
+	<element id="302">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="303">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="304">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="305">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="306">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="307">
+		<item>Plow 555</item>
+		<value>false</value>
+	</element>
+	<element id="308">
+		<item>Policy 684</item>
+		<value>true</value>
+	</element>
+	<element id="309">
+		<item>HealthPlace 101</item>
+		<value>false</value>
+	</element>
+	<element id="310">
+		<item>MATH  115</item>
+		<value>true</value>
+	</element>
+	<element id="311">
+		<item>Bank   497</item>
+		<value>false</value>
+	</element>
+	<element id="312">
+		<item>Approximately 700</item>
+		<value>false</value>
+	</element>
+	<element id="313">
+		<item>Manager 936</item>
+		<value>false</value>
+	</element>
+	<element id="314">
+		<item>Suite 260</item>
+		<value>false</value>
+	</element>
+	<element id="315">
+		<item>CIS 400</item>
+		<value>true</value>
+	</element>
+	<element id="316">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="317">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="318">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="319">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="320">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="321">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="322">
+		<item>About 290</item>
+		<value>false</value>
+	</element>
+	<element id="323">
+		<item>UMMZ 150</item>
+		<value>false</value>
+	</element>
+	<element id="324">
+		<item>Medicine 170</item>
+		<value>false</value>
+	</element>
+	<element id="325">
+		<item>Engineering 334</item>
+		<value>true</value>
+	</element>
+	<element id="326">
+		<item>Education 764</item>
+		<value>true</value>
+	</element>
+	<element id="327">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="328">
+		<item>Nature 414</item>
+		<value>false</value>
+	</element>
+	<element id="329">
+		<item>Suite 202</item>
+		<value>false</value>
+	</element>
+	<element id="330">
+		<item>Approximately 500</item>
+		<value>false</value>
+	</element>
+	<element id="331">
+		<item>HISPANIC 006</item>
+		<value>true</value>
+	</element>
+	<element id="332">
+		<item>Art 101</item>
+		<value>true</value>
+	</element>
+	<element id="333">
+		<item>HIST 112</item>
+		<value>true</value>
+	</element>
+	<element id="334">
+		<item>Hours 734</item>
+		<value>false</value>
+	</element>
+	<element id="335">
+		<item>THRU 500</item>
+		<value>false</value>
+	</element>
+	<element id="336">
+		<item>Call 734</item>
+		<value>false</value>
+	</element>
+	<element id="337">
+		<item>HJCS 100</item>
+		<value>true</value>
+	</element>
+	<element id="338">
+		<item>HJCS 100</item>
+		<value>true</value>
+	</element>
+	<element id="339">
+		<item>HJCS 100</item>
+		<value>true</value>
+	</element>
+	<element id="340">
+		<item>The 450</item>
+		<value>false</value>
+	</element>
+	<element id="341">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="342">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="343">
+		<item>The 133</item>
+		<value>false</value>
+	</element>
+	<element id="344">
+		<item>The 133</item>
+		<value>false</value>
+	</element>
+	<element id="345">
+		<item>Of 172</item>
+		<value>false</value>
+	</element>
+	<element id="346">
+		<item>Urol 163</item>
+		<value>false</value>
+	</element>
+	<element id="347">
+		<item>Genetics 101</item>
+		<value>true</value>
+	</element>
+	<element id="348">
+		<item>AAPTIS 102</item>
+		<value>true</value>
+	</element>
+	<element id="349">
+		<item>Literature 490</item>
+		<value>true</value>
+	</element>
+	<element id="350">
+		<item>Sociology 210</item>
+		<value>true</value>
+	</element>
+	<element id="351">
+		<item>Rooms 172</item>
+		<value>false</value>
+	</element>
+	<element id="352">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="353">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="354">
+		<item>Swiss 721</item>
+		<value>false</value>
+	</element>
+	<element id="355">
+		<item>Over                             110</item>
+		<value>false</value>
+	</element>
+	<element id="356">
+		<item>Suite 105</item>
+		<value>false</value>
+	</element>
+	<element id="357">
+		<item>The 181</item>
+		<value>false</value>
+	</element>
+	<element id="358">
+		<item>OF 601</item>
+		<value>false</value>
+	</element>
+	<element id="359">
+		<item>PS 794</item>
+		<value>false</value>
+	</element>
+	<element id="360">
+		<item>PS 794</item>
+		<value>false</value>
+	</element>
+	<element id="361">
+		<item>Swiss 721</item>
+		<value>false</value>
+	</element>
+	<element id="362">
+		<item>Swiss 721</item>
+		<value>false</value>
+	</element>
+	<element id="363">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="364">
+		<item>District 103</item>
+		<value>false</value>
+	</element>
+	<element id="365">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="366">
+		<item>MATH 115</item>
+		<value>true</value>
+	</element>
+	<element id="367">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="368">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="369">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="370">
+		<item>CCS 501</item>
+		<value>false</value>
+	</element>
+	<element id="371">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="372">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="373">
+		<item>Room 220</item>
+		<value>false</value>
+	</element>
+	<element id="374">
+		<item>Hours 734</item>
+		<value>false</value>
+	</element>
+	<element id="375">
+		<item>Suite 600</item>
+		<value>false</value>
+	</element>
+	<element id="376">
+		<item>Section 504</item>
+		<value>false</value>
+	</element>
+	<element id="377">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="378">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="379">
+		<item>Chemistry 211</item>
+		<value>true</value>
+	</element>
+	<element id="380">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="381">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="382">
+		<item>HMP 600</item>
+		<value>true</value>
+	</element>
+	<element id="383">
+		<item>Suite 202</item>
+		<value>false</value>
+	</element>
+	<element id="384">
+		<item>AAPTIS 100</item>
+		<value>true</value>
+	</element>
+	<element id="385">
+		<item>AAPTIS 262</item>
+		<value>true</value>
+	</element>
+	<element id="386">
+		<item>COMPLIT 241</item>
+		<value>true</value>
+	</element>
+	<element id="387">
+		<item>Some 120</item>
+		<value>false</value>
+	</element>
+	<element id="388">
+		<item>Issue 103</item>
+		<value>false</value>
+	</element>
+	<element id="389">
+		<item>German                              231</item>
+		<value>true</value>
+	</element>
+	<element id="390">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="391">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="392">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="393">
+		<item>English 415</item>
+		<value>true</value>
+	</element>
+	<element id="394">
+		<item>Econ 101</item>
+		<value>true</value>
+	</element>
+	<element id="395">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="396">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="397">
+		<item>SNRE 100</item>
+		<value>true</value>
+	</element>
+	<element id="398">
+		<item>About 100</item>
+		<value>false</value>
+	</element>
+	<element id="399">
+		<item>Room 104</item>
+		<value>false</value>
+	</element>
+	<element id="400">
+		<item>Pages 352</item>
+		<value>false</value>
+	</element>
+	<element id="401">
+		<item>Room 103</item>
+		<value>false</value>
+	</element>
+	<element id="402">
+		<item>Dox 101</item>
+		<value>false</value>
+	</element>
+	<element id="403">
+		<item>PIBS 600</item>
+		<value>true</value>
+	</element>
+	<element id="404">
+		<item>Biochem 675</item>
+		<value>true</value>
+	</element>
+	<element id="405">
+		<item>Chemistry 275</item>
+		<value>true</value>
+	</element>
+	<element id="406">
+		<item>Suite 516</item>
+		<value>false</value>
+	</element>
+	<element id="407">
+		<item>SurvMeth                630</item>
+		<value>true</value>
+	</element>
+	<element id="408">
+		<item>SurvMeth                      600</item>
+		<value>true</value>
+	</element>
+	<element id="409">
+		<item>Society 119</item>
+		<value>true</value>
+	</element>
+	<element id="410">
+		<item>Society 119</item>
+		<value>true</value>
+	</element>
+	<element id="411">
+		<item>Society 119</item>
+		<value>true</value>
+	</element>
+	<element id="412">
+		<item>Society 119</item>
+		<value>true</value>
+	</element>
+	<element id="413">
+		<item>Society 120</item>
+		<value>true</value>
+	</element>
+	<element id="414">
+		<item>Society 120</item>
+		<value>true</value>
+	</element>
+	<element id="415">
+		<item>Society 120</item>
+		<value>true</value>
+	</element>
+	<element id="416">
+		<item>Society 121</item>
+		<value>true</value>
+	</element>
+	<element id="417">
+		<item>SurvMeth                612</item>
+		<value>true</value>
+	</element>
+	<element id="418">
+		<item>Society 121</item>
+		<value>true</value>
+	</element>
+	<element id="419">
+		<item>Society 121</item>
+		<value>true</value>
+	</element>
+	<element id="420">
+		<item>Society 122</item>
+		<value>true</value>
+	</element>
+	<element id="421">
+		<item>Society 122</item>
+		<value>true</value>
+	</element>
+	<element id="422">
+		<item>Society 122</item>
+		<value>true</value>
+	</element>
+	<element id="423">
+		<item>Society 123</item>
+		<value>true</value>
+	</element>
+	<element id="424">
+		<item>Society 123</item>
+		<value>true</value>
+	</element>
+	<element id="425">
+		<item>Society 123</item>
+		<value>true</value>
+	</element>
+	<element id="426">
+		<item>SurvMeth                623</item>
+		<value>true</value>
+	</element>
+	<element id="427">
+		<item>Society 123</item>
+		<value>true</value>
+	</element>
+	<element id="428">
+		<item>Society 124</item>
+		<value>true</value>
+	</element>
+	<element id="429">
+		<item>Society 124</item>
+		<value>true</value>
+	</element>
+	<element id="430">
+		<item>Volume 116</item>
+		<value>false</value>
+	</element>
+	<element id="431">
+		<item>Society 117</item>
+		<value>true</value>
+	</element>
+	<element id="432">
+		<item>Society 118</item>
+		<value>true</value>
+	</element>
+	<element id="433">
+		<item>Volume 118</item>
+		<value>false</value>
+	</element>
+	<element id="434">
+		<item>Volume 118</item>
+		<value>false</value>
+	</element>
+	<element id="435">
+		<item>Volume 118</item>
+		<value>false</value>
+	</element>
+	<element id="436">
+		<item>SurvMeth                660</item>
+		<value>true</value>
+	</element>
+	<element id="437">
+		<item>At 239</item>
+		<value>false</value>
+	</element>
+	<element id="438">
+		<item>At 239</item>
+		<value>false</value>
+	</element>
+	<element id="439">
+		<item>SurvMeth                670</item>
+		<value>true</value>
+	</element>
+	<element id="440">
+		<item>Chem 277</item>
+		<value>true</value>
+	</element>
+	<element id="441">
+		<item>Volume  272</item>
+		<value>false</value>
+	</element>
+	<element id="442">
+		<item>COMP 221</item>
+		<value>true</value>
+	</element>
+	<element id="443">
+		<item>COMP 222</item>
+		<value>true</value>
+	</element>
+	<element id="444">
+		<item>COMP 222</item>
+		<value>true</value>
+	</element>
+	<element id="445">
+		<item>Dermatol 115</item>
+		<value>false</value>
+	</element>
+	<element id="446">
+		<item>Chem 277</item>
+		<value>true</value>
+	</element>
+	<element id="447">
+		<item>The 214</item>
+		<value>false</value>
+	</element>
+	<element id="448">
+		<item>Spanish 276</item>
+		<value>true</value>
+	</element>
+	<element id="449">
+		<item>Epidemiology 513</item>
+		<value>true</value>
+	</element>
+	<element id="450">
+		<item>Room 413</item>
+		<value>false</value>
+	</element>
+	<element id="451">
+		<item>Institute  210</item>
+		<value>false</value>
+	</element>
+	<element id="452">
+		<item>Institute  201</item>
+		<value>false</value>
+	</element>
+	<element id="453">
+		<item>Institute  210</item>
+		<value>false</value>
+	</element>
+	<element id="454">
+		<item>EECS 183</item>
+		<value>true</value>
+	</element>
+	<element id="455">
+		<item>Suite 211</item>
+		<value>false</value>
+	</element>
+	<element id="456">
+		<item>Suite 220</item>
+		<value>false</value>
+	</element>
+	<element id="457">
+		<item>Suite 220</item>
+		<value>false</value>
+	</element>
+	<element id="458">
+		<item>Suite 101</item>
+		<value>false</value>
+	</element>
+	<element id="459">
+		<item>Fortune 500</item>
+		<value>false</value>
+	</element>
+	<element id="460">
+		<item>Suite 100</item>
+		<value>false</value>
+	</element>
+	<element id="461">
+		<item>Institute  210</item>
+		<value>false</value>
+	</element>
+	<element id="462">
+		<item>Blvd  143</item>
+		<value>false</value>
+	</element>
+	<element id="463">
+		<item>Suite 204</item>
+		<value>false</value>
+	</element>
+	<element id="464">
+		<item>Institute  210</item>
+		<value>false</value>
+	</element>
+	<element id="465">
+		<item>Suite 211</item>
+		<value>false</value>
+	</element>
+	<element id="466">
+		<item>Bio 162</item>
+		<value>true</value>
+	</element>
+	<element id="467">
+		<item>Hall  100</item>
+		<value>false</value>
+	</element>
+	<element id="468">
+		<item>Hall  100</item>
+		<value>false</value>
+	</element>
+	<element id="469">
+		<item>Suite 106</item>
+		<value>false</value>
+	</element>
+	<element id="470">
+		<item>Room 406</item>
+		<value>false</value>
+	</element>
+	<element id="471">
+		<item>Building   839</item>
+		<value>false</value>
+	</element>
+	<element id="472">
+		<item>Center  603</item>
+		<value>false</value>
+	</element>
+	<element id="473">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="474">
+		<item>Math 115</item>
+		<value>true</value>
+	</element>
+	<element id="475">
+		<item>Hall  530</item>
+		<value>false</value>
+	</element>
+	<element id="476">
+		<item>ECON 101</item>
+		<value>true</value>
+	</element>
+	<element id="477">
+		<item>Bio 162</item>
+		<value>true</value>
+	</element>
+	<element id="478">
+		<item>Education  610</item>
+		<value>true</value>
+	</element>
+	<element id="479">
+		<item>Center  710</item>
+		<value>false</value>
+	</element>
+	<element id="480">
+		<item>Institute  210</item>
+		<value>false</value>
+	</element>
+	<element id="481">
+		<item>ENGR 100</item>
+		<value>true</value>
+	</element>
+	<element id="482">
+		<item>Nursing  400</item>
+		<value>true</value>
+	</element>
+	<element id="483">
+		<item>Provides 100</item>
+		<value>false</value>
+	</element>
+	<element id="484">
+		<item>Suite 700</item>
+		<value>false</value>
+	</element>
+	<element id="485">
+		<item>AnswerLine 800</item>
+		<value>true</value>
+	</element>
+	<element id="486">
+		<item>Over 340</item>
+		<value>false</value>
+	</element>
+	<element id="487">
+		<item>HA 201</item>
+		<value>false</value>
+	</element>
+	<element id="488">
+		<item>HA 201</item>
+		<value>false</value>
+	</element>
+	<element id="489">
+		<item>Michigan 734</item>
+		<value>false</value>
+	</element>
+	<element id="490">
+		<item>UMTRI 154</item>
+		<value>false</value>
+	</element>
+	<element id="491">
+		<item>Census 100</item>
+		<value>false</value>
+	</element>
+	<element id="492">
+		<item>Room 639</item>
+		<value>false</value>
+	</element>
+	<element id="493">
+		<item>Room 639</item>
+		<value>false</value>
+	</element>
+	<element id="494">
+		<item>Contact 734</item>
+		<value>false</value>
+	</element>
+	<element id="495">
+		<item>Science 258</item>
+		<value>false</value>
+	</element>
+	<element id="496">
+		<item>Swiss 721</item>
+		<value>false</value>
+	</element>
+	<element id="497">
+		<item>McMichael 440</item>
+		<value>false</value>
+	</element>
+	<element id="498">
+		<item>About 100</item>
+		<value>false</value>
+	</element>
+	<element id="499">
+		<item>Contact 734</item>
+		<value>false</value>
+	</element>
+	<element id="500">
+		<item>Nature 376</item>
+		<value>false</value>
+	</element>
+	<element id="501">
+		<item>Over 200</item>
+		<value>false</value>
+	</element>
+	<element id="502">
+		<item>Science 258</item>
+		<value>false</value>
+	</element>
+	<element id="503">
+		<item>Room 228</item>
+		<value>false</value>
+	</element>
+	<element id="504">
+		<item>Contact 734</item>
+		<value>false</value>
+	</element>
+	<element id="505">
+		<item>Suite 800</item>
+		<value>false</value>
+	</element>
+	<element id="506">
+		<item>Telephone 734</item>
+		<value>true</value>
+	</element>
+	<element id="507">
+		<item>Call 734</item>
+		<value>false</value>
+	</element>
+	<element id="508">
+		<item>Room 714</item>
+		<value>false</value>
+	</element>
+	<element id="509">
+		<item>Room 714</item>
+		<value>false</value>
+	</element>
+	<element id="510">
+		<item>Contact 734</item>
+		<value>false</value>
+	</element>
+	<element id="511">
+		<item>FAAN 400</item>
+		<value>false</value>
+	</element>
+	<element id="512">
+		<item>Biology 305</item>
+		<value>true</value>
+	</element>
+	<element id="513">
+		<item>Biology 281</item>
+		<value>true</value>
+	</element>
+	<element id="514">
+		<item>Suite 200</item>
+		<value>false</value>
+	</element>
+	<element id="515">
+		<item>Suite 200</item>
+		<value>false</value>
+	</element>
+	<element id="516">
+		<item>Suite 200</item>
+		<value>false</value>
+	</element>
+	<element id="517">
+		<item>Suite 200</item>
+		<value>false</value>
+	</element>
+	<element id="518">
+		<item>Contact 734</item>
+		<value>false</value>
+	</element>
+	<element id="519">
+		<item>Studies 419</item>
+		<value>false</value>
+	</element>
+	<element id="520">
+		<item>Contact 734</item>
+		<value>false</value>
+	</element>
+	<element id="521">
+		<item>ME 235</item>
+		<value>true</value>
+	</element>
+	<element id="522">
+		<item>ME 495</item>
+		<value>true</value>
+	</element>
+	<element id="523">
+		<item>ME 495</item>
+		<value>true</value>
+	</element>
+	<element id="524">
+		<item>Health 109</item>
+		<value>true</value>
+	</element>
+	<element id="525">
+		<item>Room 101</item>
+		<value>false</value>
+	</element>
+	<element id="526">
+		<item>ECON 101</item>
+		<value>true</value>
+	</element>
+	<element id="527">
+		<item>Math 115</item>
+		<value>true</value>
+	</element>
+	<element id="528">
+		<item>EECS 543</item>
+		<value>true</value>
+	</element>
+	<element id="529">
+		<item>Contact 734</item>
+		<value>false</value>
+	</element>
+	<element id="530">
+		<item>History 210</item>
+		<value>true</value>
+	</element>
+	<element id="531">
+		<item>History 160</item>
+		<value>true</value>
+	</element>
+	<element id="532">
+		<item>Studies 245</item>
+		<value>true</value>
+	</element>
+	<element id="533">
+		<item>ME 211</item>
+		<value>true</value>
+	</element>
+	<element id="534">
+		<item>Studies 300</item>
+		<value>true</value>
+	</element>
+	<element id="535">
+		<item>Studies 250</item>
+		<value>true</value>
+	</element>
+	<element id="536">
+		<item>Suite 350</item>
+		<value>false</value>
+	</element>
+	<element id="537">
+		<item>Room 201</item>
+		<value>false</value>
+	</element>
+	<element id="538">
+		<item>Telephone 734</item>
+		<value>true</value>
+	</element>
+	<element id="539">
+		<item>Telephone 734</item>
+		<value>true</value>
+	</element>
+	<element id="540">
+		<item>Contact 734</item>
+		<value>false</value>
+	</element>
+	<element id="541">
+		<item>Contact 734</item>
+		<value>false</value>
+	</element>
+	<element id="542">
+		<item>LACS 471</item>
+		<value>true</value>
+	</element>
+	<element id="543">
+		<item>Room 101</item>
+		<value>false</value>
+	</element>
+	<element id="544">
+		<item>Section 508</item>
+		<value>false</value>
+	</element>
+	<element id="545">
+		<item>History 246</item>
+		<value>true</value>
+	</element>
+	<element id="546">
+		<item>Room 101</item>
+		<value>false</value>
+	</element>
+	<element id="547">
+		<item>Planning 423</item>
+		<value>true</value>
+	</element>
+	<element id="548">
+		<item>ELI 994</item>
+		<value>true</value>
+	</element>
+	<element id="549">
+		<item>Michigan 401</item>
+		<value>false</value>
+	</element>
+	<element id="550">
+		<item>Planning 423</item>
+		<value>true</value>
+	</element>
+	<element id="551">
+		<item>Union 530</item>
+		<value>false</value>
+	</element>
+	<element id="552">
+		<item>HA 203</item>
+		<value>false</value>
+	</element>
+	<element id="553">
+		<item>EECS 381</item>
+		<value>true</value>
+	</element>
+	<element id="554">
+		<item>EECS 311</item>
+		<value>true</value>
+	</element>
+	<element id="555">
+		<item>EECS 427</item>
+		<value>true</value>
+	</element>
+	<element id="556">
+		<item>EECS 452</item>
+		<value>true</value>
+	</element>
+	<element id="557">
+		<item>Room 101</item>
+		<value>false</value>
+	</element>
+	<element id="558">
+		<item>Suite 200</item>
+		<value>false</value>
+	</element>
+	<element id="559">
+		<item>English 239</item>
+		<value>true</value>
+	</element>
+	<element id="560">
+		<item>SPTMGMTC 436</item>
+		<value>true</value>
+	</element>
+	<element id="561">
+		<item>Pages 394</item>
+		<value>false</value>
+	</element>
+	<element id="562">
+		<item>BUS 338</item>
+		<value>true</value>
+	</element>
+	<element id="563">
+		<item>IASTE 395</item>
+		<value>true</value>
+	</element>
+	<element id="564">
+		<item>MGT 552</item>
+		<value>true</value>
+	</element>
+	<element id="565">
+		<item>English 407</item>
+		<value>true</value>
+	</element>
+	<element id="566">
+		<item>PSYCH 405</item>
+		<value>true</value>
+	</element>
+	<element id="567">
+		<item>Contact 734</item>
+		<value>false</value>
+	</element>
+</elements>
+</file>
