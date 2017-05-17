@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file for="ciao">
+<nofelements>3</nofelements>
+<elements>
+	<element id="1">
+		<item></item>
+		<value>true</value>
+	</element>
+	<element id="2">
+		<item>dfsfsd</item>
+		<value>true</value>
+	</element>
+	<element id="3">
+		<item>dfsfsd</item>
+		<value>true</value>
+	</element>
+</elements>
+</file>

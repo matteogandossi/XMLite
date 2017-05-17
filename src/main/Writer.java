@@ -8,28 +8,24 @@ import java.util.ArrayList;
 public class Writer {
 	
 	private ArrayList<Item> list;
-	private String name;
 	
-	public Writer(ArrayList<Item> list, String path){
-		this.list = list;
-		this.name = path;		
+	public Writer(ArrayList<Item> list){
+		this.list = list;	
 	}
 	
 	public boolean export(String fileOutput){
 		
 		PrintStream file;
+		String outputFileName = fileOutput + "Lite.xml";
+		
 		try {
-			file = new PrintStream(new FileOutputStream(fileOutput));
+			file = new PrintStream(new FileOutputStream(outputFileName));
 		} catch (FileNotFoundException e) {
 			return false;
 		}
-	
-		int idx = name.lastIndexOf('.');
-		
-		String nameNE = name.substring(0, idx);
 		
 		file.println("<?xml version=\"1.0\" encoding=\"UTF-8\"?>");
-		file.println("<file for=\"" + nameNE + "\">");
+		file.println("<file for=\"" + fileOutput + "\">");
 		file.println("<nofelements>" + list.size() + "</nofelements>");
 		file.println("<elements>");
 		

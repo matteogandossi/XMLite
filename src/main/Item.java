@@ -18,6 +18,7 @@ public class Item {
 	public boolean getValue() {
 		return value;
 	}
+	
 	@Override
 	public String toString(){
 		
@@ -29,16 +30,6 @@ public class Item {
 		
 		return s.toString();
 	}
-	
-	public String print(int id){
-		
-		StringBuilder s = new StringBuilder();
-		s.append("<element id="+id+">\n");
-		s.append("<item>" + item + "</item>\n");
-		s.append("<value>" + value + "</value>\n");
-		s.append("</element>\n");
-		
-		return s.toString();
-	}
+
 
 }
