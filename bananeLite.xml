@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file for="banane">
+<nofelements>4</nofelements>
+<elements>
+	<element id="1">
+		<item>ciquita</item>
+		<value>true</value>
+	</element>
+	<element id="2">
+		<item>marlene</item>
+		<value>true</value>
+	</element>
+	<element id="3">
+		<item>Navella</item>
+		<value>true</value>
+	</element>
+	<element id="4">
+		<item>GAhsddhe</item>
+		<value>false</value>
+	</element>
+</elements>
+</file>

@@ -23,14 +23,13 @@ public class Main {
 	private static void fromFile(){
 		
 		String inputFileName = Grafica.getFileName("Inserire il nome del file con estensione.");
-		ArrayList<Item> list;
+		ArrayList<Item> list = null;
 		
 		try {
 			list = Reader.read(inputFileName);
 		} catch (IOException | ParserConfigurationException | SAXException e) {
 			Grafica.showErrorMessage("Errore nella lettura del file!", "Errore lettura");
 			System.exit(0);
-			list = null;
 		}
 		
 		int idx = inputFileName.lastIndexOf('.');
@@ -77,8 +76,7 @@ public class Main {
 
 		default:
 			break;
-		}
-		
+		}		
 		
 	}
 

@@ -22,13 +22,7 @@ public class Item {
 	@Override
 	public String toString(){
 		
-		StringBuilder s = new StringBuilder();
-		s.append("<element>\n");
-		s.append("<item>" + item + "</item>\n");
-		s.append("<value>" + value + "</value>\n");
-		s.append("</element>\n");
-		
-		return s.toString();
+		return item + " - " + value;
 	}
 
 
