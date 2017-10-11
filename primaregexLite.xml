@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file for="primaregex">
+<nofelements>4</nofelements>
+<elements>
+	<element id="1">
+		<item></item>
+		<value>true</value>
+	</element>
+	<element id="2">
+		<item>aaabbaababababa</item>
+		<value>true</value>
+	</element>
+	<element id="3">
+		<item>ababbaafababa</item>
+		<value>false</value>
+	</element>
+	<element id="4">
+		<item>AbbabababA</item>
+		<value>false</value>
+	</element>
+</elements>
+</file>
