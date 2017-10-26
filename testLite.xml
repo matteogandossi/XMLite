@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file for="test">
+<nofelements>19</nofelements>
+<elements>
+	<element id="1">
+		<item>testing</item>
+		<value>true</value>
+	</element>
+	<element id="2">
+		<item>tests</item>
+		<value>true</value>
+	</element>
+	<element id="3">
+		<item>tester</item>
+		<value>true</value>
+	</element>
+	<element id="4">
+		<item>tested</item>
+		<value>true</value>
+	</element>
+	<element id="5">
+		<item>Test</item>
+		<value>false</value>
+	</element>
+	<element id="6">
+		<item>testeD</item>
+		<value>false</value>
+	</element>
+	<element id="7">
+		<item>testa</item>
+		<value>false</value>
+	</element>
+	<element id="8">
+		<item>testiNg</item>
+		<value>false</value>
+	</element>
+	<element id="9">
+		<item>testss</item>
+		<value>false</value>
+	</element>
+	<element id="10">
+		<item>teSt</item>
+		<value>false</value>
+	</element>
+	<element id="11">
+		<item>testeR</item>
+		<value>false</value>
+	</element>
+	<element id="12">
+		<item>tesT</item>
+		<value>false</value>
+	</element>
+	<element id="13">
+		<item>test0</item>
+		<value>false</value>
+	</element>
+	<element id="14">
+		<item>testEd</item>
+		<value>false</value>
+	</element>
+	<element id="15">
+		<item>testS</item>
+		<value>false</value>
+	</element>
+	<element id="16">
+		<item>tEst</item>
+		<value>false</value>
+	</element>
+	<element id="17">
+		<item>testinG</item>
+		<value>false</value>
+	</element>
+	<element id="18">
+		<item>testEr</item>
+		<value>false</value>
+	</element>
+	<element id="19">
+		<item>testIng</item>
+		<value>false</value>
+	</element>
+</elements>
+</file>
